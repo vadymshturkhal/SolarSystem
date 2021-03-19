@@ -89,3 +89,4 @@ Received Import Request.
 Start importing Assets/Textures/VenusTexture.jpg using Guid(fcf02c04aa0a29fdbb9780fc40fb0098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7be58c3a327f6ef2b6b52b013d43dbc') in 0,079152 seconds
   Import took 0,084286 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
